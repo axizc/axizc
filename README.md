@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @riaxizc
+#Hello
+- 👋 Hi, I’m @axizc
 - My username is real imaginary complex axis. (I just added the "c" for fun)
 - 👀 I’m interested in coding, music, math
 - 🌱 I’m currently learning math, math, and more math
