@@ -1,6 +1,6 @@
 Hello
 
-~ Hi, I’m <b>@axizc</b> <br />
+~ Hi, I’m <b style="font-family:Verdana;">@axizc</b> <br />
 ~ Try to figure out what my username means (hint: math!) <br />
 ~ I’m interested in coding, music, math <br />
 ~  I’m currently learning math, math, and more math <br />
