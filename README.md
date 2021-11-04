@@ -1,6 +1,7 @@
-#Hello
+Hello
+
 - 👋 Hi, I’m @axizc
-- My username is real imaginary complex axis. (I just added the "c" for fun)
+- My username is complex axis, since i like non-real numbers
 - 👀 I’m interested in coding, music, math
 - 🌱 I’m currently learning math, math, and more math
 - 💞️ I’m looking to collaborate on nothing right now.
