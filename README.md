@@ -1,6 +1,7 @@
+
 <h1>Hello</h1>
 
-~ Hi, I’m <b style="font-family:serif;">@axizc</b> <br />
+~ Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 ~ Try to figure out what my username means (hint: math!) <br />
 ~ I’m interested in coding, music, math <br />
 ~  I’m currently learning math, math, and more math <br />
@@ -11,3 +12,4 @@
 axizc/axizc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</body>
