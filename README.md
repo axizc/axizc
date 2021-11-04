@@ -8,6 +8,6 @@ Hello
 ~ How to reach me: on here or on AoPS, my username is t_ameya, you can PM me there\n
 
 <!---
-riaxizc/riaxizc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+axizc/axizc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
