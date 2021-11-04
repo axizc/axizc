@@ -1,3 +1,6 @@
+---
+fontsize: 24pt
+---
 Hello
 
 ~ Hi, I’m @axizc <br />
