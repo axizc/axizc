@@ -1,4 +1,4 @@
-Hello
+<h1>Hello</h1>
 
 ~ Hi, I’m <b style="font-family:serif;">@axizc</b> <br />
 ~ Try to figure out what my username means (hint: math!) <br />
