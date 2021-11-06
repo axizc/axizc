@@ -6,9 +6,10 @@
 - Try to figure out what my username means (hint: no hints given) <br />
 - I’m interested in coding, music, math <br />
 - I go to Quimby Oak Middle School, as an 8th grader.<br/>
+- Cramming for the AMC 10s currently
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
-- I'm working on Melodicia and Profi  (music project, and math project both involve AI)<br/>
+- I'm working on Melodicia (music AI generator) and Proma (math proof solver) (names in draft currently)<br/>
 - How to reach me: on here or on AoPS, my username is t_ameya, you can PM me there <br />
 
 
