@@ -5,7 +5,7 @@
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 - Try to figure out what my username means (hint: no hints given) <br />
 - I’m interested in coding, music, math <br />
-- Cramming for the AMC 10s currently
+- Cramming for the AMC 10s currently and still wondering why MOEMS is even considered a math contest.
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
 - I'm working on Melodicia (music AI generator) and Proma (math proof solver) (names in draft currently)<br/>
