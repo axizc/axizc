@@ -5,7 +5,6 @@
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 - Try to figure out what my username means (hint: no hints given) <br />
 - I’m interested in coding, music, math <br />
-- I go to Quimby Oak Middle School, as an 8th grader.<br/>
 - Cramming for the AMC 10s currently
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
