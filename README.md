@@ -6,7 +6,7 @@
 - Try to figure out what my username means (hint: no hints given) <br />
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
-- Stil wondering how I got every question on the easiest math contest (MOEMS), except failed the addition problem on the last contest :(
+- I am so smart that i thought 8+1=10 on a contest #prodigygoals
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
 - I'm working on Melodicia (music AI generator) and Cacula(math proof solver))<br/>
