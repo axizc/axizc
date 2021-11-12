@@ -9,7 +9,7 @@
 - Stil wondering how I got every question on the easiest math contest (MOEMS), except failed the addition problem on the last contest :(
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
-- I'm working on Melodicia (music AI generator) and Proma (math proof solver) (names in draft currently)<br/>
+- I'm working on Melodicia (music AI generator) and XProof(math proof solver) (names in draft currently)<br/>
 - How to reach me: You can reach me on AoPS. My username is t_ameya  <br />
 
 
