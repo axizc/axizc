@@ -3,7 +3,7 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
-- Try to figure out what my username means (hint: no hints given) <br />
+- The complex axis is the best one, hence my username axiz<b>c</b>
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
 - I am so smart that i thought 8+1=10 on a contest #prodigygoals
