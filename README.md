@@ -6,7 +6,7 @@
 - The complex plane is the most interesting, hence my username axiz<b>c</b>
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
-- I am so smart that i thought 8+1=10 on a contest #prodigygoals
+- I am so smart that i thought 8+1=10 on the AMC 10
 -  I’m currently learning math, math, and more math <br />
 - I’m looking to collaborate on nothing right now. <br />
 - I'm working on Melodicia (music AI generator) and Cacula(math proof solver))<br/>
