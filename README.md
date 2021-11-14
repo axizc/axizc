@@ -3,7 +3,7 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
-- The complex plane is the most interesting, hence my username axiz<b>c</b>
+- my username is basically saying that the complex axis >>>>>>>>>>>> real axis
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
 - I am so smart that i thought 8+1=10 on the AMC 10
