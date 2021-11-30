@@ -2,7 +2,7 @@
 <h1>Hello</h1>
 
 
-- Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@tocasa</a></b> <br />
+- Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@tauradian</a></b> <br />
 - my username is basically saying that the tan cos sin (except i edited a few letters)
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
