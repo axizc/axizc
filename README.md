@@ -3,7 +3,7 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@tocasa</a></b> <br />
-- my username is basically saying that the complex axis >>>>>>>>>>>> real axis
+- my username is basically saying that the tan cos sin (except i edited a few letters)
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
 - I am so smart that i thought 8+1=10 on the AMC 10
