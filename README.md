@@ -2,8 +2,8 @@
 <h1>Hello</h1>
 
 
-- Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@tauradian</a></b> <br />
-- my username is basically just tau (2pi) and radians
+- Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
+- my username is math stuff (imaginary or complex)  
 - I’m interested in coding, music, math <br />
 - Cramming for the AMC 10s currently
 - I am so smart that i thought 8+1=10 on the AMC 10
