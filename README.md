@@ -3,7 +3,7 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
-- my username is math stuff (imaginary or complex)  
+- figure out my username definitely not math related
 - I’m interested in coding, music, math <br />
 - AMC 12s be like
 -  I’m currently learning music math coding<br /> 
