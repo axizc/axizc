@@ -5,12 +5,11 @@
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 - my username is math stuff (imaginary or complex)  
 - I’m interested in coding, music, math <br />
-- Cramming for the AMC 10s currently
-- I am so smart that i thought 8+1=10 on the AMC 10
--  I’m currently learning math, math, and more math <br />
-- I’m looking to collaborate on nothing right now. <br />
-- I'm working on Melodicia (music AI generator) and Calc (math proof solver)) and also a open world video game that is not a copy of BoTW (I'm looking at you, genshin impact) using <a href="https://unity.com/" target="blank">unity</a> of course (unreal sucks)<br/> 
-- How to reach me: You can reach me on AoPS. My username is t_ameya  <br />
+- AMC 12s be like
+-  I’m currently learning music math coding<br /> 
+- I'm working on something veery cool :))))))))) it's a secret
+- <a href="https://unity.com/" target="blank">unity</a> of course (unreal sucks)<br/> 
+- How to reach me: don't  <br />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=axizc&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
