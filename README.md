@@ -3,13 +3,10 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
-- figure out my username definitely not math related
-- I’m interested in coding, music, math <br />
-- AMC 12s be like
--  I’m currently learning music math coding<br /> 
-- I'm working on something veery cool :))))))))) it's a secret
-- <a href="https://unity.com/" target="blank">unity</a> of course (unreal sucks)<br/> 
-- How to reach me: don't  <br />
+- I’m interested in music and math <br />
+-  I’m currently learning unity!<br /> 
+- I'm working on a project using unity 
+- How to reach me: here?? <br />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=axizc&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
