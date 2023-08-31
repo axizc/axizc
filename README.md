@@ -4,8 +4,7 @@
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 - I’m interested in music and math <br />
--  I’m currently learning unity!<br /> 
-- I'm working on a project using unity 
+-  unity>>>>>>>> <br /> 
 - How to reach me: here?? <br />
 
 
