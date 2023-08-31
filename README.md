@@ -4,8 +4,7 @@
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
 - I’m interested in music and math <br />
--  unity>>>>>>>> <br /> 
-- How to reach me: here?? <br />
+   <br /> 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=axizc&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
