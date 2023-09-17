@@ -3,7 +3,7 @@
 
 
 - Hi, I’m <b style="font-family:serif;"><a href="https://github.com/axizc/">@axizc</a></b> <br />
-- I’m interested in music and math <br />
+<br />
    <br /> 
 
 
@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=axizc&theme=dark" width="48%" >
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axizc&layout=compact)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axizc&layout=compact)
 
 <!---
 axizc/axizc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
